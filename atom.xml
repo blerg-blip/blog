@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Heterodoxy</title>
+  
+  
+  <link href="http://localhost/atom.xml" rel="self"/>
+  
+  <link href="http://localhost/"/>
+  <updated>2020-11-13T12:27:09.242Z</updated>
+  <id>http://localhost/</id>
+  
+  <author>
+    <name>A.</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hobbies</title>
+    <link href="http://localhost/2020/11/13/2020/hobbies/"/>
+    <id>http://localhost/2020/11/13/2020/hobbies/</id>
+    <published>2020-11-13T11:30:59.000Z</published>
+    <updated>2020-11-13T12:27:09.242Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Boy oh boy do I go through hobbies like cops with doughnuts. Had a swing at blender, followed a few tutorials but just lost interest</summary>
+        
+      
+    
+    
+    
+    
+    <category term="📷" scheme="http://localhost/tags/%F0%9F%93%B7/"/>
+    
+    <category term="🎮" scheme="http://localhost/tags/%F0%9F%8E%AE/"/>
+    
+    <category term="💻" scheme="http://localhost/tags/%F0%9F%92%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://localhost/2020/11/13/2020/hello-world/"/>
+    <id>http://localhost/2020/11/13/2020/hello-world/</id>
+    <published>2020-11-13T09:42:53.115Z</published>
+    <updated>2020-11-13T12:01:30.252Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;I hope this will assuage the churning mush of thoughts swirling around the bowl that I call a brain. &lt;/p&gt;
+&lt;p&gt;As I write this there is a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
