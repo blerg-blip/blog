@@ -6,7 +6,7 @@
   <link href="http://localhost/atom.xml" rel="self"/>
   
   <link href="http://localhost/"/>
-  <updated>2020-11-13T12:27:09.242Z</updated>
+  <updated>2020-11-16T11:40:56.322Z</updated>
   <id>http://localhost/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>wallowing-in-audiobooks</title>
+    <link href="http://localhost/2020/11/16/wallowing-in-audiobooks/"/>
+    <id>http://localhost/2020/11/16/wallowing-in-audiobooks/</id>
+    <published>2020-11-16T10:26:56.000Z</published>
+    <updated>2020-11-16T11:40:56.322Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Looks like this will be public, but no one will stumble on it… github pages makes it easier than even IIS.&lt;/p&gt;
+&lt;p&gt;Past week or so I have</summary>
+        
+      
+    
+    
+    
+    
+    <category term="🎧" scheme="http://localhost/tags/%F0%9F%8E%A7/"/>
+    
+    <category term="📚" scheme="http://localhost/tags/%F0%9F%93%9A/"/>
+    
+    <category term="🥋" scheme="http://localhost/tags/%F0%9F%A5%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>hobbies</title>
